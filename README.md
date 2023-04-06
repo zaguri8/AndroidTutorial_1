@@ -1,6 +1,6 @@
 # Android Dev Cossci Couse Resources - 2023
 
-## 1. Login Screen Layout & Drawables
+## 1. Spotify Login Screen
 
 ### Drawable Resources
 
